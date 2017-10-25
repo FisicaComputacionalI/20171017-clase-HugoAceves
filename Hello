@@ -1,0 +1,24 @@
+File Edit Options Buffers Tools C++ Help                                        
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  cout << "Hello, World" << endl;
+  return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+-UU-:----F1  Hello.cc       All L1     (C++/l Abbrev)---------------------------
+C-c-
